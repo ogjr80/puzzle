@@ -33,3 +33,18 @@ body {
 .name{
     font-weight: bold;
 }
+
+.parent{
+    border: 1px solid black; 
+    background-color: #ccc;
+    margin: 20px; 
+    padding: 70px;
+}
+.child { 
+    border: 1px solid black; 
+    background-color: #eee;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+
